@@ -1,5 +1,7 @@
 <?php
 
+namespace webdevsega\petrovich;
+
 class Petrovich {
 
     private $rules; //Правила

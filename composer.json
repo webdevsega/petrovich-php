@@ -1,0 +1,9 @@
+{
+  "name": "webdevsega/petrovich-php",
+  "description": "Petrovich php library",
+  "autoload": {
+    "psr-4": {
+      "webdevsega\\petrovich\\": ""
+    }
+  }
+}
